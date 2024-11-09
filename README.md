@@ -18,3 +18,14 @@ Koky Aritomi Ramírez Perez: Soy estudiante de la carrera de Ingeniería de Sist
 
 Segmentos Objetivo
 
+En primer lugar, personas jóvenes que valoran su apariencia y están interesados en procedimientos estéticos, cuidado personal, maquillaje, y tendencias de belleza. Buscan mejorar su confianza y expresarse a través de su imagen. 
+
+En segundo lugar, estilistas, maquilladores, dermatólogos, y otros especialistas en belleza que desean proporcionar a sus clientes una experiencia mejorada y más visual al planificar y ejecutar procedimientos estéticos.
+
+Principales Características
+
+Entre las mas importantes, consideramos que la precisión en la simulación de RA, la facilidad de uso, la capacidad de experimentar con múltiples estilos y colores, y la opción de compartir resultados con amigos y en redes sociales son clave. Por otro lado, los profesionales del sector de belleza necesitan una herramienta confiable y profesional, que ofrezca simulaciones de alta calidad, la posibilidad de guardar y comparar diferentes opciones, y la opción de integrar la aplicación en su flujo de trabajo diario.
+
+Conclusión
+
+El uso de herramientas digitales para la elaboración de nuestro proyecto nos ha permitido observar de manera más detallada la estructura general de nuestra aplicación, así como también reconsiderar si los elementos visuales o escritos se veían bien a simple vista. Asimismo, al elaborar nuestra página, hemos podido desarrollar mejor nuevas habilidades como el diseño de una página. Ello es muy importante, ya que practicamos tanto para situaciones de la vida real como para nuestras prácticas o exámenes finales. En general, fue una experiencia enriquecedora para todos los integrantes del grupo.
