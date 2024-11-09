@@ -316,23 +316,21 @@ body {
     line-height: 1.6;
 }
 
-.btn-learn-more-n {
-    display: inline-block;
+.btn-learn-more {
+    margin-top: 20px;
     padding: 10px 20px;
     background-color: #f0c000;
-    color: #1a1a1a; 
-    text-align: center;
-    text-decoration: none; 
-    border-radius: 5px; 
+    color: #1a1a1a;
+    border: none;
+    border-radius: 5px;
     font-size: 16px;
-    transition: background-color 0.3s; 
     cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-.btn-learn-more-n:hover {
+.btn-learn-more:hover {
     background-color: #8f7407;
 }
-
 
 .servicios-image {
     width: 100%;
@@ -386,7 +384,7 @@ body {
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
-    transition: 0.3s;
+    transition: background-color 0.3s;
 }
 
 .btn-servicios:hover {
@@ -816,5 +814,3 @@ form a:hover {
 #dropdown.show .dropdown-menu {
     display: block;
 }
-
-
